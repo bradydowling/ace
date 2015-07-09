@@ -1,3 +1,7 @@
+[![Feature Requests](http://feathub.com/bradydowling/ace?format=svg)](http://feathub.com/bradydowling/ace)
+
+
+
 Ace (Ajax.org Cloud9 Editor)
 ============================
 
